@@ -54,5 +54,8 @@
       "protobufjs",
       "rome"
     ]
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
