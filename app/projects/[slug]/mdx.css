@@ -1,0 +1,5 @@
+pre { overflow-x: auto; }
+pre > code { display: grid; }
+.line--highlighted { background-color: rgb(255 255 255 / 10%); }
+.word--highlighted { background-color: rgb(255 255 255 / 15%); border-radius: 0.25rem; }
+.subheading-anchor { text-decoration: none; }
